@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "inmuebles-778c5": {
+      "hosting": {
+        "inmuebles": [
+          "inmuebles-778c5"
+        ]
+      }
+    }
+  }
+}
