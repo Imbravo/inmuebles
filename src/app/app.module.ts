@@ -11,6 +11,7 @@ import { LoginComponent } from './components/user/login/login.component';
 import { MainNavComponent } from './components/reusables/main-nav/main-nav.component';
 import { RouterModule } from '@angular/router';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
+import { MainFooterComponent } from './components/reusables/main-footer/main-footer.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,6 +19,7 @@ import { ReactiveFormsModule, FormsModule } from '@angular/forms';
     HomeComponent,
     LoginComponent,
     MainNavComponent,
+    MainFooterComponent,
   ],
   imports: [
     BrowserModule,

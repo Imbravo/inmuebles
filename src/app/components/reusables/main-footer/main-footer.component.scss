@@ -1,0 +1,21 @@
+.main-footer{
+    background-color: #2f2f31;
+    margin-top: 4rem;
+    .footer-links{
+        background-color: #e5ddce;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 2rem;
+        a{
+            text-decoration: none;
+            color: black;
+            padding: 0.3rem;
+            font-weight: 500;
+        }
+    }
+}
+
+.footer-link-container{
+    padding:2rem;
+}
